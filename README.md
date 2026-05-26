@@ -41,7 +41,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/Sasi-2006/Huddle-landing-page-with-a-single-introductory-section
-- Live Site URL: 
+- Live Site URL:  https://sasi-2006.github.io/Huddle-landing-page-with-a-single-introductory-section/
 
 ---
 
